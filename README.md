@@ -76,6 +76,12 @@ Powered by [OpenWeatherMap](https://openweathermap.org/api)
 
 ---
 
+## 📄 License
+
+This project is open-source and free to use for any purpose.
+
+---
+
 ## 💡 Future Enhancements
 
 - Add animated weather icons
